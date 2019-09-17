@@ -2,7 +2,7 @@
   "extends": ["tslint:recommended", "tslint-config-prettier"],
   "rules": {
     "max-line-length": {
-      "options": [180]
+      "options": [120]
     },
     "no-arg": true,
     "no-bitwise": true,
@@ -25,7 +25,7 @@
   },
   "jsRules": {
     "max-line-length": {
-      "options": [180]
+      "options": [120]
     }
   }
 }
