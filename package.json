@@ -10,10 +10,10 @@
     "type": "git",
     "url": "git+https://github.com/joontop/brick-house.git"
   },
-  "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/joontop/brick-house/issues"
-  },
-  "homepage": "https://github.com/joontop/brick-house#readme"
+  "devDependencies": {
+    "webpack": "^4.40.2",
+    "webpack-cli": "^3.3.8",
+    "webpack-dev-server": "^3.8.1"
+  }
 }
